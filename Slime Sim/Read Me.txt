@@ -1,0 +1,13 @@
+Controls:
+
+Left click / right click to attract / repel.
+
+Shift + left/right to place / delete.
+
+Scroll wheel to change mouse size (this effects the strength of the repeling / attraction and also lets you delete more or less slime.)
+
+Scroll wheel + 1 to alter how strong the steering strength of the slime are.
+
+Scroll wheel + 2 to alter how strong the random walking of the slime is.
+
+To run: Double click SlimeSim.exe (if it doesn't work you need java 8.)
